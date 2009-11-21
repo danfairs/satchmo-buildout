@@ -1,1 +1,8 @@
 bin
+.Python
+.installed.cfg
+.mr.developer.cfg
+develop-eggs/
+include/
+lib/
+parts/
