@@ -2,3 +2,5 @@ django-caching-app-plugins/
 satchmo/
 signals-ahoy/
 sorl-thumbnail/
+django-testimonials/
+mylargestore/
